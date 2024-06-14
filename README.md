@@ -2,6 +2,10 @@
 
 This application allows users to manage multiple bank accounts, track transactions, calculate balances, and perform various operations such as transfers, loans, and account closure. It is built using JavaScript and integrates with a simple HTML/CSS interface for user interaction.
 
+##video
+
+https://github.com/PDARSHIL312/BANK-TRANSACTION-APP/assets/137078389/71e42cd6-a3ff-419b-90bd-dc2f637e4a3f
+
 ## Features
 
 ### 1. User Authentication
